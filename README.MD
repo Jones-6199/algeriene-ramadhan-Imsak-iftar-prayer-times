@@ -1,4 +1,4 @@
-# Ramadan 2026 Imsak & Iftar Prayer Times – Algeria 🇩🇿
+# Ramadan 2026 Imsak ,Iftar & Prayer Times – Algeria 🇩🇿
 
 A simple web application that displays **Imsak and daily prayer times for Ramadan 2026** across **all 58 Algerian wilayas**.
 
@@ -29,4 +29,5 @@ This project is designed to help Muslims in Algeria easily access **accurate Ram
 ## 📄 License
 This project is open-source and available for educational and personal use.
 ## Crafted By Benziane Younes - Ramadhan 2026 
+
 

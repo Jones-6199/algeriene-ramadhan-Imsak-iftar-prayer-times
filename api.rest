@@ -1,0 +1,2 @@
+GET 
+https://api.aladhan.com/v1/timingsByCity?country=DZ&city=Algeria

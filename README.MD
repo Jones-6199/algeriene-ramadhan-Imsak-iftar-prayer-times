@@ -5,7 +5,7 @@ A simple web application that displays **Imsak and daily prayer times for Ramada
 Users can select their **wilaya or city**, and the app will automatically show the **accurate prayer timings** for that location.
 
 ## ✨ Features
-- Ramadan 2026 Imsak & prayer times
+- Ramadan 2026 Imsak & prayer times 
 - Covers all **58 Algerian wilayas**
 - City / wilaya selection
 - Clean and responsive UI
@@ -29,5 +29,6 @@ This project is designed to help Muslims in Algeria easily access **accurate Ram
 ## 📄 License
 This project is open-source and available for educational and personal use.
 ## Crafted By Benziane Younes - Ramadhan 2026 
+
 
 
